@@ -1,0 +1,6 @@
+﻿GroupName,GroupScope,OU
+Dean,Global,"CN=Users,DC=faculty,DC=ru"
+Teachers,Global,"CN=Users,DC=faculty,DC=ru"
+Students,Global,"CN=Users,DC=faculty,DC=ru"
+Group_1,Global,"CN=Users,DC=faculty,DC=ru"
+Group_2,Global,"CN=Users,DC=faculty,DC=ru"

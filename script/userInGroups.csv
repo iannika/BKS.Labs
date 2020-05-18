@@ -1,6 +1,8 @@
-ADGroup,ADUsers
-Dean,DLyn;Dsom;Dvlin
-Teachers,ALyn;asom;vlin
-Students,studALyn;stud;vstudlin
-
-
+Username, Groupname
+dean, Dean
+akot, Teachers
+Alun, Teachers
+vlin, Teachers
+studElena, Students
+studVanya, Students
+studIgor, Students
